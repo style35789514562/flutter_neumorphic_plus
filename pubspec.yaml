@@ -1,0 +1,22 @@
+name: flutter_neumorphic_plus
+description: A complete, ready to use, Neumorphic ui kit for Flutter. Dark theming compatible & fully customizable.
+version: 3.5.0
+homepage: https://github.com/gsmlg-app/Flutter-Neumorphic
+issue_tracker: https://github.com/gsmlg-app/Flutter-Neumorphic/issues
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  fonts:
+    - family: NeumorphicIcons
+      fonts:
+        - asset: fonts/NeumorphicIcons.ttf
